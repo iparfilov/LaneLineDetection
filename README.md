@@ -3,10 +3,10 @@ Lane lines detection project (Udacity self-driving car nanodegree)
 
 * Installation:
 
-git clone https://github.com/udacity/CarND-Term1-Starter-Kit.git
+  git clone https://github.com/udacity/CarND-Term1-Starter-Kit.git
 
-conda env create -f environment.yml
+  conda env create -f environment.yml
 
-source activate carnd-term1
+  source activate carnd-term1
 
-jupyter notebook P1.ipynb
+  jupyter notebook P1.ipynb
